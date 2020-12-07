@@ -32,7 +32,7 @@ function setup() {
 	mango9=new Mango(940,220,35);
 	mango10=new Mango(980,305,35);
 
-	attacher=new Throw(stones.body,{x:100,y:465});
+	attacher=new Throw(stones.body,{x:115,y:475});
 
 	Engine.run(engine);
   
